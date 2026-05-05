@@ -1,0 +1,6 @@
+.skilljar_session.json
+.env.local
+CLAUDE.local.md
+__pycache__/
+*.pyc
+.DS_Store
